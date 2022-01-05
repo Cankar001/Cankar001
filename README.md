@@ -6,7 +6,7 @@
 
 ![Cankar001's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankar001&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankar001&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankar001&layout=compact&langs_count=10&theme=github_dark)
 
 - 🔭 I’m currently working on ...
   - [HighLo-Engine](https://www.github.com/HighLo-Engine/HighLo-Engine)
