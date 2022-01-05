@@ -15,7 +15,10 @@
   - Vulkan
   - DirectX 11
   - DirectX 12
+  - OpenCV
+  - OpenSSL
 - 💬 Ask me about ...
   - Anything! :D
 - 📫 How to reach me: ...
   - [Website](https://www.cankarka.com/en/contact)
+  - [Instagram](https://www.instagram.com/_cankarka_)
