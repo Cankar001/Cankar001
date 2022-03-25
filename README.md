@@ -15,8 +15,6 @@
   - Vulkan
   - DirectX 11
   - DirectX 12
-  - OpenCV
-  - OpenSSL
 - 💬 Ask me about ...
   - Anything! :D
 - 📫 How to reach me: ...
