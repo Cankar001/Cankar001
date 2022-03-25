@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankar001&layout=compact&langs_count=10&theme=github_dark)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
   - [HighLo-Engine](https://www.github.com/HighLo-Engine/HighLo-Engine)
   - [Monochrome](https://www.github.com/flarecoding/monochrome)
 - 🌱 I’m currently learning ...
@@ -17,6 +17,6 @@
   - DirectX 12
 - 💬 Ask me about ...
   - Anything! :D
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   - [Website](https://www.cankarka.com/en/contact)
   - [Instagram](https://www.instagram.com/_cankarka_)
