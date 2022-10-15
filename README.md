@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img align="left" src="assets/meme.png" /></td>
+    <td><img align="left" src="assets/meme.png" width="300" /></td>
     <td>
       <h1>
       <p align = "center">
