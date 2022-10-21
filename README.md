@@ -33,7 +33,7 @@
     <td>
       <p align=center>
         <a href="https://github.com/HighLo-Engine/HighLo-Engine" target="_blank">
-        <img width="500em" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=HighLo-Engine&repo=HighLo-Engine&theme=radical"/>
+          <img width="500em" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=HighLo-Engine&repo=HighLo-Engine&theme=radical"/>
         </a>
       </p>
     </td>
