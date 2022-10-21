@@ -121,12 +121,6 @@
       </table>
       </p>
     </td>
-    <td>
-      <br/>
-      <p align = "center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankar001&layout=compact&langs_count=10&theme=github_dark" alt="Top Langs">
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -143,9 +137,24 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-
 ## Stats
 
-![Cankar001's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankar001&theme=github_dark)
-![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cankar001&theme=radical)
-![Github trophies](https://github-trophies-wheat.vercel.app/?username=Cankar001&theme=radical)
+<table>
+  <tr>
+    <td>
+      <p align=center>
+        <img src="https://github-readme-stats.vercel.app/api?username=cankar001&theme=github_dark" alt="Cankar001's GitHub stats" />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankar001&layout=compact&langs_count=10&theme=github_dark" alt="Top Langs" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cankar001&theme=radical" alt="Github stats" />
+  <img src="https://github-trophies-wheat.vercel.app/?username=Cankar001&theme=radical" alt="Github trophies" />
+</p>
