@@ -32,14 +32,14 @@
   <tr>
     <td>
       <p align=center>
-        <a href="https://github.com/HighLo-Engine/HighLo-Engine">
+        <a href="https://github.com/HighLo-Engine/HighLo-Engine" target="_blank">
         <img width="500em" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=HighLo-Engine&repo=HighLo-Engine&theme=radical"/>
         </a>
       </p>
     </td>
     <td>
       <p align=center>
-        <a href="https://github.com/Cankar001/TabPorter">
+        <a href="https://github.com/Cankar001/TabPorter" target="_blank">
           <img width="500em" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=Cankar001&repo=TabPorter&theme=radical"/>
         </a>
       </p>
@@ -48,14 +48,14 @@
   <tr>
     <td>
       <p align=center>
-        <a href="https://github.com/Cankar001/ThePapageiBot">
+        <a href="https://github.com/Cankar001/ThePapageiBot" target="_blank">
           <img width="500px" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=Cankar001&repo=ThePapageiBot&theme=radical"/>
         </a>
       </p>
     </td>
     <td>
       <p align=center>
-        <a href="https://github.com/Cankar001/SafeChat">
+        <a href="https://github.com/Cankar001/SafeChat" target="_blank">
           <img width="500px" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=Cankar001&repo=SafeChat&theme=radical"/>
         </a>
       </p>
