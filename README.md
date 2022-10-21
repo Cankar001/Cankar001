@@ -69,6 +69,67 @@
 [![highlo-engine.com](https://svg.bookmark.style/api?url=https://www.highlo-engine.com/&mode=dark&style=horizontal)](https://www.highlo-engine.com)
 [![tabporter.com](https://svg.bookmark.style/api?url=https://tabporter.com/&mode=light&style=horizontal)](https://www.tabporter.com)
 
+## Skills
+
+<table>
+  <tr>
+    <td>
+      <p>
+      <table>
+        <tr>
+          <th><center>Programs</center></th>
+          <td>
+            <img align="center" alt="" width="40px" src="assets/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UE" width="40px" src="assets/ue.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="VS" width="40px" src="assets/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="VSCode" width="40px" src="assets/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Cinema 4D" width="40px" src="assets/cinema-4d.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Maya" width="40px" src="assets/maya.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Substance Painter" width="40px" src="assets/substance-painter.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Substance Designer" width="40px" src="assets/substance-designer.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="After Effects" width="40px" src="assets/after-effects-2019.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Premiere Pro" width="40px" src="assets/premiere-cc.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Photoshop" width="40px" src="assets/photoshop-cc-4.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Lightroom" width="40px" src="assets/lightroom-cc.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+        <tr>
+          <th><center>Languages</center></th>
+          <td>
+            <img align="center" alt="C#" width="40px" src="assets/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="C++" width="40px" src="assets/cpp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="C" width="40px" src="assets/c.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Python" width="40px" src="assets/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Lua" width="40px" src="assets/lua.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+        <tr>
+          <th><center>APIs</center></th>
+          <td>
+            <img align="center" alt="OpenGL" width="40px" src="assets/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Vulkan" width="40px" src="assets/vulkan.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+        <tr>
+          <th><center>Utilities</center></th>
+          <td>
+            <img align="center" alt="Premake" width="40px" src="assets/premake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Git" width="40px" src="assets/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="GitLab" width="40px" src="assets/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+      </table>
+      </p>
+    </td>
+    <td>
+      <br/>
+      <p align = "center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankar001&layout=compact&langs_count=10&theme=github_dark" alt="Top Langs">
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## My tech stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -88,4 +149,3 @@
 ![Cankar001's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankar001&theme=github_dark)
 ![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cankar001&theme=radical)
 ![Github trophies](https://github-trophies-wheat.vercel.app/?username=Cankar001&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankar001&layout=compact&langs_count=10&theme=github_dark)
