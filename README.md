@@ -73,7 +73,7 @@
         <tr>
           <th><center>Programs</center></th>
           <td>
-            <img align="center" alt="" width="40px" src="assets/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Unity" width="40px" src="assets/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="UE" width="40px" src="assets/ue.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="VS" width="40px" src="assets/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="VSCode" width="40px" src="assets/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
