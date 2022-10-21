@@ -12,15 +12,52 @@
           <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+engine+lead+developer;Python+backend+developer+@+CGI;10+years+of+experience">
         </p>
       <p align = "center">
-      <a href="https://www.linkedin.com/in/can-karka-45531a186/">
+      <a href="https://www.linkedin.com/in/can-karka-45531a186/" target="_blank">
         <img align="center" alt="LinkedIn" width="45px" src="assets/linkedin.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/Cankar001">
+      <a href="https://github.com/Cankar001" target="_blank">
         <img align="center" alt="GitHub" width="40px" src="assets/github.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.artstation.com/cankarka">
+      <a href="https://www.artstation.com/cankarka" target="_blank">
         <img align="center" alt="ArtStation" width="40px" src="assets/artstation.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <p align=center>
+        <a href="https://github.com/HighLo-Engine/HighLo-Engine">
+        <img width="500em" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=HighLo-Engine&repo=HighLo-Engine&theme=radical"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align=center>
+        <a href="https://github.com/Cankar001/TabPorter">
+          <img width="500em" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=Cankar001&repo=TabPorter&theme=radical"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align=center>
+        <a href="https://github.com/Cankar001/ThePapageiBot">
+          <img width="500px" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=Cankar001&repo=ThePapageiBot&theme=radical"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align=center>
+        <a href="https://github.com/Cankar001/SafeChat">
+          <img width="500px" height="200px" src="https://github-readme-stats-cankar001.vercel.app/api/pin/?username=Cankar001&repo=SafeChat&theme=radical"/>
+        </a>
       </p>
     </td>
   </tr>
