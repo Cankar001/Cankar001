@@ -63,12 +63,6 @@
   </tr>
 </table>
 
-## I am currently working on
-
-[![cankarka.com](https://svg.bookmark.style/api?url=https://cankarka.com/&mode=light&style=horizontal)](https://www.cankarka.com)
-[![highlo-engine.com](https://svg.bookmark.style/api?url=https://www.highlo-engine.com/&mode=dark&style=horizontal)](https://www.highlo-engine.com)
-[![tabporter.com](https://svg.bookmark.style/api?url=https://tabporter.com/&mode=light&style=horizontal)](https://www.tabporter.com)
-
 ## Skills
 
 <table>
@@ -101,6 +95,11 @@
             <img align="center" alt="C" width="40px" src="assets/c.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="Python" width="40px" src="assets/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="Lua" width="40px" src="assets/lua.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Java" width="40px" src="assets/java.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="PHP" width="40px" src="assets/php.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Bash" width="40px" src="assets/bash.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Javascript" width="40px" src="assets/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Typescript" width="40px" src="assets/ts.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
         <tr>
