@@ -116,6 +116,7 @@
             <img align="center" alt="Premake" width="40px" src="assets/premake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="Git" width="40px" src="assets/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="GitLab" width="40px" src="assets/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Cmake" width="40px" src="assets/cmake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
       </table>
