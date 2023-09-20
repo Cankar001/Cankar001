@@ -9,7 +9,7 @@
       </p>
       </h1>
         <p align = "center">
-          <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+engine+lead+developer;Cpp+graphics+developer+@+Elgato;10+years+of+experience">
+          <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+engine+lead+developer;C%2B%2B+graphics+developer+@+Elgato;10+years+of+experience">
         </p>
       <p align = "center">
       <a href="https://www.linkedin.com/in/can-karka-45531a186/" target="_blank">
